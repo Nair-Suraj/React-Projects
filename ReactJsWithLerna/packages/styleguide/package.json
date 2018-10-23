@@ -1,11 +1,11 @@
 {
   "name": "styleguide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "dependencies": {
     "catalog": "^3.6.0",
-    "components": "^1.0.0",
-    "project": "^1.0.0",
+    "components": "^1.0.1",
+    "project": "^1.0.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.5"
