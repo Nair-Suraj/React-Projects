@@ -4,7 +4,7 @@ function Another() {
     return (
         <div>
             <span>Another Component</span>
-            <span>Updated</span>
+            <span> NPM package</span>
         </div>
     );
 }
