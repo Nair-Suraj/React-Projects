@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4e7e1b7c-1067-46b8-95cc-b529bb98d4b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../LernaNodeJsExample/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../LernaNodeJsExample/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/components/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/components/webpack.config.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,20 +76,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packages/project/node_modules/components/package.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packages/project/node_modules/components/webpack.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="14" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/packages/components/package-lock.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -108,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/lerna.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -160,9 +145,6 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
-    <handled-path value="$PROJECT_DIR$/packages/components/node_modules" />
-    <handled-path value="$PROJECT_DIR$/packages/project/node_modules" />
-    <handled-path value="$PROJECT_DIR$/packages/styleguide/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -266,12 +248,12 @@
       <option name="presentableId" value="Default" />
       <updated>1540205415633</updated>
       <workItem from="1540205417013" duration="8124000" />
-      <workItem from="1540269399963" duration="1674000" />
+      <workItem from="1540269399963" duration="2221000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9798000" />
+    <option name="totallyTimeSpent" value="10345000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -404,7 +386,7 @@
     <entry file="file://$PROJECT_DIR$/lerna.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
