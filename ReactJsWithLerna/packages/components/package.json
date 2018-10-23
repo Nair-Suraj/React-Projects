@@ -1,5 +1,5 @@
 {
-  "name": "components",
+  "name": "lerna_testing_components",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
@@ -24,5 +24,5 @@
   "peerDependencies": {
     "react": "^16.5.2"
   },
-  "gitHead": "d9c3596c477815b35cf699aac0aada34cbff059d"
+  "gitHead": "19f7a5cf1a0b12b9da0dff0a95b4bf8f4535df4c"
 }
