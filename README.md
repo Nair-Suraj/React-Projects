@@ -1,3 +1,6 @@
 # React-Projects
 
-## Comming Soon : )
+## MonoRepo
+
+Two projects configured with Lerna.
+
